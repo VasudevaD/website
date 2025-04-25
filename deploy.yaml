@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-deployment
-        image: aadi0410/project-2
+        image: vasudevad/cp2
         ports:
         - containerPort: 80
